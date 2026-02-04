@@ -1,6 +1,6 @@
 // ===== TOKEN CONFIG - JUST PASTE YOUR CONTRACT ADDRESS HERE =====
 const TOKEN_CONFIG = {
-    contractAddress: "", // <-- PASTE YOUR CA HERE (leave empty for "Coming Soon")
+    contractAddress: "F3kk9XxRAKJcAmbk8pY33jEnGEXDXS8q1UtreSodpump",
     chain: "solana"
 };
 
